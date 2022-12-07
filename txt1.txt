@@ -1,2 +1,2 @@
 this is text folder one two
-second line
+this is changed now
